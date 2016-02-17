@@ -17,7 +17,7 @@ class Cups{
 	Cups(){
 		System.out.println("Cups()");
 	}
-} 
+}
 
 
 public class Explicitstatic {
