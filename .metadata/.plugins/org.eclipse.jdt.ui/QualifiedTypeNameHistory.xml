@@ -4,4 +4,5 @@
 <fullyQualifiedTypeName name="Rock"/>
 <fullyQualifiedTypeName name="java.lang.Character.Subset"/>
 <fullyQualifiedTypeName name="java.util.concurrent.AbstractExecutorService"/>
+<fullyQualifiedTypeName name="SprinklerSystem"/>
 </qualifiedTypeNameHistroy>
